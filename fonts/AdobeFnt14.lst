@@ -1,0 +1,452 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Agenda-Bold
+FamilyName:Agenda
+StyleName:Bold
+FullName:Agenda-Bold
+MenuName:Agenda
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\Agenda-Bold.ttf
+DataFormat:sfntData
+FileLength:46396
+FileModTime:1499398804
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Agenda-Light
+FamilyName:Agenda
+StyleName:Light
+FullName:Agenda-Light
+MenuName:Agenda
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\Agenda-Light.ttf
+DataFormat:sfntData
+FileLength:58464
+FileModTime:1499398804
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Agenda-Medium
+FamilyName:Agenda
+StyleName:Medium
+FullName:Agenda-Medium
+MenuName:Agenda
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\AgendaMedium.ttf
+DataFormat:sfntData
+FileLength:51304
+FileModTime:1499401732
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PSL-Text
+FamilyName:PSL-Text
+StyleName:Regular
+FullName:PSL-Text
+MenuName:PSL-Text
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL-Text.ttf
+DataFormat:sfntData
+FileLength:98864
+FileModTime:1213710670
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PSL-Text-Bold
+FamilyName:PSL-Text
+StyleName:Bold
+FullName:PSL-Text Bold
+MenuName:PSL-Text
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL-TextBold.ttf
+DataFormat:sfntData
+FileLength:96968
+FileModTime:1213710670
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PSL-Text-BoldItalic
+FamilyName:PSL-Text
+StyleName:Bold Italic
+FullName:PSL-Text Bold Italic
+MenuName:PSL-Text
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL-TextBoldItalic.ttf
+DataFormat:sfntData
+FileLength:80544
+FileModTime:1213710754
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PSL-Text-Italic
+FamilyName:PSL-Text
+StyleName:Italic
+FullName:PSL-Text Italic
+MenuName:PSL-Text
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL-TextItalic.ttf
+DataFormat:sfntData
+FileLength:70452
+FileModTime:1213710754
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PSLKittithadaPro
+FamilyName:PSL Kittithada Pro
+StyleName:Regular
+FullName:PSL Kittithada Pro Regular
+MenuName:PSL Kittithada Pro
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL094pro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27736
+FileModTime:1372203186
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PSLKittithadaProItalic
+FamilyName:PSL Kittithada Pro
+StyleName:Italic
+FullName:PSL Kittithada Pro Italic
+MenuName:PSL Kittithada Pro
+StyleBits:1
+FamilyNameNative:
+StyleNameNative:Italic
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL095pro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29244
+FileModTime:1372207818
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PSLKittithadaProBold
+FamilyName:PSL Kittithada Pro
+StyleName:Bold
+FullName:PSL Kittithada Pro Bold
+MenuName:PSL Kittithada Pro
+StyleBits:2
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL096pro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28308
+FileModTime:1372225254
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PSLKittithadaProBoldItalic
+FamilyName:PSL Kittithada Pro
+StyleName:Bold Italic
+FullName:PSL Kittithada Pro Bold Italic
+MenuName:PSL Kittithada Pro
+StyleBits:3
+FamilyNameNative:
+StyleNameNative:Bold Italic
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL097pro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29740
+FileModTime:1372465552
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KittithadaThin35
+FamilyName:Kittithada Thin 35
+StyleName:Regular
+FullName:Kittithada Thin 35
+MenuName:Kittithada Thin 35 (กิตติธาดา ทิน 35)
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL239pro.ttf
+DataFormat:sfntData
+FileLength:50952
+FileModTime:1213710358
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KittithadaLight45
+FamilyName:Kittithada Light 45
+StyleName:Regular
+FullName:Kittithada Light 45
+MenuName:Kittithada Light 45 (กิตติธาดา ไลท์ 45)
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL240pro.ttf
+DataFormat:sfntData
+FileLength:49960
+FileModTime:1213710856
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KittithadaLight45Italic
+FamilyName:Kittithada Light 45
+StyleName:Italic
+FullName:Kittithada Light 45 Italic
+MenuName:Kittithada Light 45 (กิตติธาดา ไลท์ 45)
+StyleBits:1
+FamilyNameNative:
+StyleNameNative:Italic
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL241pro.ttf
+DataFormat:sfntData
+FileLength:51628
+FileModTime:1213710856
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KittithadaRoman55
+FamilyName:Kittithada Roman 55
+StyleName:Regular
+FullName:Kittithada Roman 55
+MenuName:Kittithada Roman 55 (กิตติธาดา โรมัน 55)
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL242pro.ttf
+DataFormat:sfntData
+FileLength:55420
+FileModTime:1213710856
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KittithadaRoman55Italic
+FamilyName:Kittithada Roman 55
+StyleName:Italic
+FullName:Kittithada Roman 55 Italic
+MenuName:Kittithada Roman 55 (กิตติธาดาโรมัน 55)
+StyleBits:1
+FamilyNameNative:
+StyleNameNative:Italic
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL243pro.ttf
+DataFormat:sfntData
+FileLength:51800
+FileModTime:1213710856
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KittithadaMedium65
+FamilyName:Kittithada Medium 65
+StyleName:Regular
+FullName:Kittithada Medium 65
+MenuName:Kittithada Medium 65 (กิตติธาดา มีเดียม 65)
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL244pro.ttf
+DataFormat:sfntData
+FileLength:51580
+FileModTime:1213710330
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KittithadaBold75
+FamilyName:Kittithada Bold 75
+StyleName:Regular
+FullName:Kittithada Bold 75
+MenuName:Kittithada Bold 75 (กิตติธาดา โบลด์ 75)
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL245pro.ttf
+DataFormat:sfntData
+FileLength:49460
+FileModTime:1213710580
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KittithadaThin35Italic
+FamilyName:Kittithada Thin 35
+StyleName:Italic
+FullName:Kittithada Thin 35 Italic
+MenuName:Kittithada Thin 35 (กิตติธาดา ทิน 35)
+StyleBits:1
+FamilyNameNative:
+StyleNameNative:Italic
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL254pro.ttf
+DataFormat:sfntData
+FileLength:52604
+FileModTime:1213710580
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KittithadaMedium65Italic
+FamilyName:Kittithada Medium 65
+StyleName:Italic
+FullName:Kittithada Medium 65 Italic
+MenuName:Kittithada Medium 65 (กิตติธาดา มีเดียม 65)
+StyleBits:1
+FamilyNameNative:
+StyleNameNative:Italic
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL255pro.ttf
+DataFormat:sfntData
+FileLength:52840
+FileModTime:1213710580
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KittithadaBold75Italic
+FamilyName:Kittithada Bold 75
+StyleName:Italic
+FullName:Kittithada Bold 75 Italic
+MenuName:Kittithada Bold 75 (กิตติธาดา โบลด์ 75)
+StyleBits:1
+FamilyNameNative:
+StyleNameNative:Italic
+FullNameNative:
+WritingScript:Thai
+OutlineFileName:D:\Downloads\UOBAM (1)\Font\PSL256pro.ttf
+DataFormat:sfntData
+FileLength:51148
+FileModTime:1213710580
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+

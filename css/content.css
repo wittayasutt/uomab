@@ -1,0 +1,136 @@
+#content {
+	padding-top: 90px;
+}
+
+#content > .bg {
+	height: 550px;
+	width: 100%;
+	background: url('../images/content/uobam.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#content .article > .date {
+	font-size: 22px;
+	font-family: 'font_light_45regular';
+	color: #2f71c0;
+	line-height: 1;
+	margin: 24px 0 4px;
+}
+
+#content .article > h1 {
+	font-size: 44px;
+	font-family: 'font_light_45regular';
+	font-weight: 600;
+	color: #002469;
+	line-height: 1;
+	margin-bottom: 42px;
+}
+
+#content .article > p {
+	width: 100%;
+	font-size: 28px;
+	font-family: 'font_light_45regular';
+	font-weight: 400;
+	color: #333333;
+	line-height: 1.2;
+}
+
+#content .article > img {
+	display: flex;
+	margin: auto;
+	margin-bottom: 40px;
+}
+
+#content .more {
+	height: 350px;
+	width: 100%;
+	background: #0a1735;
+	margin-top: 120px;
+}
+
+#content .more > .container {
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+#content .more .text {
+	font-size: 52px;
+	font-family: 'font_thin_35regular';
+	font-weight: 200;
+	color: #ffffff;
+	line-height: 1;
+}
+
+#content .more .uob-button {
+	height: 72px;
+	width: 240px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 29px;
+	font-family: 'Agenda';
+	font-weight: 400;
+	background-image: linear-gradient(to right, #4377ac, #6ec7dd);
+	color: #ffffff;
+	text-decoration: none;
+	border-radius: 50px;
+	transition: 0.2s;
+}
+
+#content .more .uob-button.thai {
+	font-size: 36px;
+	font-family: 'font_thin_35regular';
+	font-weight: 400;
+}
+
+#content .more .uob-button:hover {
+	box-shadow: 0 3px 16px #4377ac;
+}
+
+@media only screen and (max-width: 1023px) {
+	#content {
+		padding-top: 50px;
+	}
+
+	#content > .bg {
+		height: 70vh;
+	}
+
+	#content .article {
+		padding: 0 8px;
+	}
+
+	#content .article > h1 {
+		margin-bottom: 24px;
+	}
+
+	#content .article > p {
+		font-size: 24px;
+	}
+
+	#content .more {
+        height: 300px;
+		margin-top: 40px;
+	}
+
+	#content .more > .container {
+		flex-direction: column;
+		align-items: center;
+		padding: 8px;
+	}
+
+	#content .more .text {
+        font-size: 32px;
+        text-align: center;
+    }
+    
+    #content .more .uob-button {
+        height: 54px;
+        width: 90%;
+        font-size: 22px;
+    }   
+}

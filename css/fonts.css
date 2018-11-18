@@ -1,0 +1,167 @@
+@font-face {
+	font-family: font_light_45regular;
+	src: url(../fonts/PSL240pro.ttf);
+	src: url(../fonts/PSL240pro.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: font_light_45italic;
+	src: url(../fonts/PSL241pro.ttf);
+	src: url(../fonts/PSL241pro.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: font_roman_55regular;
+	src: url(../fonts/PSL242pro.ttf);
+	src: url(../fonts/PSL242pro.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: font_roman_55italic;
+	src: url(../fonts/PSL243pro.ttf);
+	src: url(../fonts/PSL243pro.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: font_medium_65regular;
+	src: url(../fonts/PSL244pro.ttf);
+	src: url(../fonts/PSL244pro.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: font_medium_65italic;
+	src: url(../fonts/PSL255pro.ttf);
+	src: url(../fonts/PSL255pro.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: font_bold_75regular;
+	src: url(../fonts/PSL245pro.ttf);
+	src: url(../fonts/PSL245pro.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: font_bold_75italic;
+	src: url(../fonts/PSL256pro.ttf);
+	src: url(../fonts/PSL256pro.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: font_thin_35regular;
+	src: url(../fonts/PSL239pro.ttf);
+	src: url(../fonts/PSL239pro.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: font_thin_35italic;
+	src: url(../fonts/PSL254pro.ttf);
+	src: url(../fonts/PSL254pro.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: PSL094pro;
+	src: url(../fonts/PSL094pro.otf);
+	src: url(../fonts/PSL094pro.otf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: PSL095pro;
+	src: url(../fonts/PSL095pro.otf);
+	src: url(../fonts/PSL095pro.otf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: PSL096pro;
+	src: url(../fonts/PSL096pro.otf);
+	src: url(../fonts/PSL096pro.otf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: PSL097pro;
+	src: url(../fonts/PSL097pro.otf);
+	src: url(../fonts/PSL097pro.otf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: PSL;
+	src: url(../fonts/PSL-Text.ttf);
+	src: url(../fonts/PSL-Text.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: PSL;
+	src: url(../fonts/PSL-TextBold.ttf);
+	src: url(../fonts/PSL-TextBold.ttf) format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: PSL;
+	src: url(../fonts/PSL-TextItalic.ttf);
+	src: url(../fonts/PSL-TextItalic.ttf) format('truetype');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: PSL;
+	src: url(../fonts/PSL-TextBoldItalic.ttf);
+	src: url(../fonts/PSL-TextBoldItalic.ttf) format('truetype');
+	font-weight: 600;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Agenda;
+	src: url(../fonts/Agenda-Light.ttf);
+	src: url(../fonts/Agenda-Light.ttf) format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Agenda;
+	src: url(../fonts/AgendaMedium.ttf);
+	src: url(../fonts/AgendaMedium.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Agenda;
+	src: url(../fonts/Agenda-Bold.ttf);
+	src: url(../fonts/Agenda-Bold.ttf) format('truetype');
+	font-weight: 600;
+	font-style: bold;
+}
