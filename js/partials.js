@@ -10,5 +10,4 @@ $(document).ready(function() {
 	}
 
 	$('footer').load('/partials/footer.html')
-	$('#content').load('/partials/content.html')
 })
