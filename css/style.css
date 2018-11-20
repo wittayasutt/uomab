@@ -19,6 +19,7 @@
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+	opacity: 0.6;
 }
 
 #section-1 .welcome-wrapper {
@@ -1279,4 +1280,18 @@ footer {
 .close:hover,
 .close:focus {
 	opacity: 0.8;
+}
+
+.mobile {
+	display: none;
+}
+
+@media only screen and (max-width: 1023px) {
+	.desktop {
+		display: none;
+	}
+
+	.mobile {
+		display: initial;
+	}
 }
