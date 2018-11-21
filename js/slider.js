@@ -61,6 +61,7 @@ function setSilde(show) {
 		$('#slide' + (i + 1))
 			.find('a')
 			.attr('href', show[i].link)
+			.attr('target', show[i].target)
 	}
 }
 
@@ -82,6 +83,7 @@ function clickLeft(data, center, slideCenter) {
 	$('#slide' + slidePrev)
 		.find('a')
 		.attr('href', data[prev].link)
+		.attr('target', data[prev].target)
 }
 
 function clickRight(data, center, slideCenter) {
@@ -102,4 +104,5 @@ function clickRight(data, center, slideCenter) {
 	$('#slide' + slideNext)
 		.find('a')
 		.attr('href', data[next].link)
+		.attr('target', data[next].target)
 }

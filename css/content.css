@@ -74,11 +74,13 @@
 	font-size: 29px;
 	font-family: 'Agenda';
 	font-weight: 400;
-	background-image: linear-gradient(to right, #4377ac, #6ec7dd);
+	background-image: linear-gradient(to right, #4377ac 50%, #6ec7dd 100%);
 	color: #ffffff;
 	text-decoration: none;
 	border-radius: 50px;
-	transition: 0.2s;
+	transition: 0.4s;
+	background-position: 0px;
+	background-size: 200%;
 }
 
 #content .more .uob-button.thai {
@@ -88,6 +90,7 @@
 }
 
 #content .more .uob-button:hover {
+	box-shadow: 0 3px 16px #4377ac;
 	box-shadow: 0 3px 16px #4377ac;
 }
 
@@ -113,7 +116,7 @@
 	}
 
 	#content .more {
-        height: 300px;
+		height: 300px;
 		margin-top: 40px;
 	}
 
@@ -124,13 +127,13 @@
 	}
 
 	#content .more .text {
-        font-size: 32px;
-        text-align: center;
-    }
-    
-    #content .more .uob-button {
-        height: 54px;
-        width: 90%;
-        font-size: 22px;
-    }   
+		font-size: 32px;
+		text-align: center;
+	}
+
+	#content .more .uob-button {
+		height: 54px;
+		width: 90%;
+		font-size: 22px;
+	}
 }
