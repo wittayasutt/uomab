@@ -257,11 +257,13 @@
 }
 
 #section-2 .right > .leftover > .top > .title > .text > h2 {
-	font-size: 84px;
-	font-family: Agenda;
+	/* font-size: 84px; */
+	font-size: 120px;
+	/* font-family: Agenda; */
 	font-weight: 400;
 	color: #ffffff;
-	line-height: 0.7;
+	/* line-height: 0.7; */
+	line-height: 0.5;
 }
 
 #section-2 .right > .leftover > .top > .title > .text > p {
@@ -515,11 +517,13 @@
 }
 
 #section-4 .left > .rightover > .top > .title > .text > h2 {
-	font-size: 84px;
-	font-family: 'Agenda';
+	/* font-size: 84px; */
+	font-size: 120px;
+	/* font-family: 'Agenda'; */
 	font-weight: 400;
 	color: #ffffff;
-	line-height: 0.7;
+	/* line-height: 0.7; */
+	line-height: 0.5;
 }
 
 #section-4 .left > .rightover > .top > .title > .text > p {
