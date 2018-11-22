@@ -751,8 +751,8 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	font-size: 29px;
-	font-family: 'Agenda';
+	font-size: 32px;
+	font-family: 'font_thin_35regular';
 	font-weight: 400;
 	background-image: linear-gradient(to right, #4377ac 50%, #6ec7dd 100%);
 	color: #ffffff;
