@@ -4620,9 +4620,9 @@ header .content-wrapper #float-menu-home-service.active {
 		content: '';
 		display: table-cell;
 	}
-	header .content-wrapper .menu-home-list {
+	/* header .content-wrapper .menu-home-list {
 		display: none;
-	}
+	} */
 	header .content-wrapper .menu-header-search-lang {
 		position: absolute;
 		right: 15px;

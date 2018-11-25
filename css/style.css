@@ -1239,3 +1239,11 @@ footer {
 		display: initial;
 	}
 }
+
+.none {
+	display: none;
+}
+
+.max-height-none {
+	max-height: none !important;
+}
