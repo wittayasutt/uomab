@@ -799,6 +799,11 @@
 		width: 90%;
 		font-size: 22px;
 	}
+	#section-6 .bg .uob-button:hover {
+		box-shadow: 0 3px 16px #4377ac;
+		background-position: -100%;
+	}
+	
 }
 #section-7 .bg {
 	height: 1000px;
@@ -885,9 +890,9 @@
 #section-7 .articles > #slider > .slide > .image {
 	height: 315px;
 	width: 100%;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
 }
 #section-7 .articles > #slider > .slide > .text {
 	flex: 1;
@@ -977,11 +982,11 @@
 		opacity: 0;
 	}
 	#section-7 .articles > #slider {
-		height: 300px;
+		height: 330px;
 		width: 60%;
 	}
 	#section-7 .articles > #slider > .slide > .image {
-		height: 100px;
+		height: 110px;
 	}
 
 	#s1:checked ~ #slide3,
