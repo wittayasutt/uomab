@@ -482,6 +482,10 @@
 	animation-duration: 2.5s;
 }
 
+#section-4 .bg .container > .desktop > img {
+	margin-top: -70px;
+}
+
 #section-4 .left {
 	flex: 1;
 }
@@ -803,7 +807,6 @@
 		box-shadow: 0 3px 16px #4377ac;
 		background-position: -100%;
 	}
-	
 }
 #section-7 .bg {
 	height: 1000px;
