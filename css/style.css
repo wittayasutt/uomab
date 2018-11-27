@@ -1207,7 +1207,7 @@ footer {
 	z-index: 1;
 }
 .modal-content {
-	width: 80%;
+	width: max-content;
 	display: flex;
 	justify-content: center;
 	align-items: center;
