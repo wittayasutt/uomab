@@ -1,4 +1,4 @@
-$(document).ready(function() {
+// $(document).ready(function() {
 	var modal = document.getElementById('myModal')
 	var btn = document.getElementById('myBtn')
 	var span = document.getElementsByClassName('close')[0]
@@ -18,4 +18,4 @@ $(document).ready(function() {
 			iframe.attr('src', '')
 		}
 	}
-})
+// })
