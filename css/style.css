@@ -15,7 +15,7 @@
 	position: absolute;
 	top: 0;
 	left: 0;
-	background: url('../images/assets/Asset 4.png');
+	background-image: url('https://i.ibb.co/J5LZh1n/Asset-4-min.jpg');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -31,6 +31,7 @@
 #section-1 .welcome {
 	display: flex;
 	margin-top: 80px;
+	flex-grow: 1;
 }
 
 #section-1 .welcome > .left {
@@ -127,6 +128,11 @@
 }
 
 #section-1 .prize > .prize-list > .prize-box > .img {
+	display: flex;
+	margin: auto;
+}
+
+#section-1 .prize > .prize-list > .prize-box > .img > img {
 	margin: auto;
 }
 
@@ -353,6 +359,24 @@
 	}
 }
 
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	#section-2 .bg .container img {
+		opacity: 1;
+	}
+
+	#section-2 .right > .leftover > .top > .title {
+		opacity: 1;
+	}
+
+	#section-2 .right > .leftover > .bottom {
+		opacity: 1;
+	}
+
+	#section-2 .right > .detail {
+		opacity: 1;
+	}
+}
+
 #section-3 .bg {
 	position: relative;
 }
@@ -470,6 +494,23 @@
 
 	#section-3 .detail-list > .detail-box > .text > .name {
 		font-size: 32px;
+	}
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	#section-3 .detail-list > .detail-box > .img.img-1 {
+		height: 89px;
+		width: 90px;
+	}
+
+	#section-3 .detail-list > .detail-box > .img.img-2 {
+		height: 89px;
+		width: 70px;
+	}
+
+	#section-3 .detail-list > .detail-box > .img.img-3 {
+		height: 90px;
+		width: 74px;
 	}
 }
 
@@ -628,6 +669,24 @@
 	}
 }
 
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	#section-4 .bg .container img {
+		opacity: 1;
+	}
+
+	#section-4 .left > .rightover > .top > .title {
+		opacity: 1;
+	}
+
+	#section-4 .left > .rightover > .bottom {
+		opacity: 1;
+	}
+
+	#section-4 .left > .detail {
+		opacity: 1;
+	}
+}
+
 #section-5 .bg {
 	position: relative;
 }
@@ -745,6 +804,23 @@
 
 	#section-5 .detail-list > .detail-box > .text > .name {
 		font-size: 32px;
+	}
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	#section-5 .detail-list > .detail-box > .img.img-1 {
+		height: 89px;
+		width: 89px;
+	}
+
+	#section-5 .detail-list > .detail-box > .img.img-2 {
+		height: 89px;
+		width: 70px;
+	}
+
+	#section-5 .detail-list > .detail-box > .img.img-3 {
+		height: 89px;
+		width: 72px;
 	}
 }
 
@@ -1240,6 +1316,13 @@ footer {
 		margin: auto;
 	}
 }
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	.uob-risk {
+		opacity: 1;
+	}
+}
+
 .modal {
 	display: none;
 	height: 100%;

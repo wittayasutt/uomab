@@ -23,6 +23,33 @@
 		<!-- Google Tag Manager -->
 		<script src="./js/gtm.js"></script>
 
+		<script>
+			console.log('test')
+			alert('test')
+
+			$(document).ready(function() {
+				var modal = document.getElementById('myModal')
+				var btn = document.getElementById('myBtn')
+				var span = document.getElementsByClassName('close')[0]
+				var iframe = $('.modal').find('iframe')
+
+				$('.open-video').click(function() {
+					modal.style.display = 'block'
+					iframe.attr('src', 'https://www.youtube.com/embed/Bhg45PNtsVs')
+				})
+				$('#myModal .modal-content span').click(function() {
+					modal.style.display = 'none'
+					iframe.attr('src', '')
+				})
+				window.onclick = function(event) {
+					if (event.target == modal) {
+						modal.style.display = 'none'
+						iframe.attr('src', '')
+					}
+				}
+			})
+		</script>
+
 		<!-- End Google Tag Manager -->
 	</head>
 	<body>
@@ -909,7 +936,7 @@
 					<div class="container">
 						<div class="detail-list">
 							<div class="detail-box">
-								<div class="img">
+								<div class="img img-1 ">
 									<img src="./images/assets/Asset 24.png" alt="prize" />
 								</div>
 								<div class="text">
@@ -919,7 +946,7 @@
 								</div>
 							</div>
 							<div class="detail-box">
-								<div class="img">
+								<div class="img img-2">
 									<img src="./images/assets/Asset 25.png" alt="prize" />
 								</div>
 								<div class="text">
@@ -930,7 +957,7 @@
 								</div>
 							</div>
 							<div class="detail-box">
-								<div class="img">
+								<div class="img img-3">
 									<img src="./images/assets/Asset 26.png" alt="prize" />
 								</div>
 								<div class="text">
@@ -1027,7 +1054,7 @@
 					<div class="container">
 						<div class="detail-list">
 							<div class="detail-box">
-								<div class="img">
+								<div class="img img-1">
 									<img src="./images/assets/Asset 27.png" alt="prize" />
 								</div>
 								<div class="text">
@@ -1035,7 +1062,7 @@
 								</div>
 							</div>
 							<div class="detail-box">
-								<div class="img">
+								<div class="img img-2">
 									<img src="./images/assets/Asset 25.png" alt="prize" />
 								</div>
 								<div class="text">
@@ -1046,7 +1073,7 @@
 								</div>
 							</div>
 							<div class="detail-box">
-								<div class="img">
+								<div class="img img-3">
 									<img src="./images/assets/Asset 28.png" alt="prize" />
 								</div>
 								<div class="text">
@@ -1136,12 +1163,9 @@
 			</div>
 		</section>
 		<!-- end of section-9 -->
-		
-		
+
 		<!-- footer -->
-		<footer>
-			© 2018 UOB Asset Management (Thailand) Co., Ltd.
-		</footer>
+		<footer>© 2018 UOB Asset Management (Thailand) Co., Ltd.</footer>
 		<!-- end of footer -->
 
 		<!-- <section id="section-2"></section> -->
