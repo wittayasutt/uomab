@@ -362,6 +362,7 @@
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
 	#section-2 .bg .container img {
 		opacity: 1;
+		margin-top: -30px;
 	}
 
 	#section-2 .right > .leftover > .top > .title {
@@ -672,6 +673,7 @@
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
 	#section-4 .bg .container img {
 		opacity: 1;
+		margin-top: -40px;
 	}
 
 	#section-4 .left > .rightover > .top > .title {
