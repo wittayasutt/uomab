@@ -230,8 +230,8 @@
 	opacity: 0;
 	animation-duration: 2s;
 	transform: scale(0.8);
-	/* margin-top: -80px; */
-	margin-top: -30px;
+	margin-top: -80px;
+	/* margin-top: -30px; */
 }
 
 #section-2 .right {
@@ -538,8 +538,8 @@
 }
 
 #section-4 .bg .container > .desktop > img {
-	/* margin-top: -150px; */
-	margin-top: -40px;
+	margin-top: -150px;
+	/* margin-top: -40px; */
 }
 
 #section-4 .left {

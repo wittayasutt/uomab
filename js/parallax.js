@@ -1,3 +1,3 @@
-$(document).ready(function() {
-	$('.my-paroller').paroller()
-})
+// $(document).ready(function() {
+$('.my-paroller').paroller()
+// })
