@@ -1,3 +1,4 @@
+if (window.innerWidth < 1024) {
 /* Minification failed. Returning unminified contents.
 (10,5710-5718): run-time error JS1137: 'function' is a new reserved word and should not be used as an identifier: function
 (10,5798-5806): run-time error JS1137: 'function' is a new reserved word and should not be used as an identifier: function
@@ -818,3 +819,4 @@ function subscribe(){
 		return false;
 	}
 };
+}
