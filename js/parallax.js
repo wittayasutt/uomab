@@ -1,3 +1,6 @@
 // $(document).ready(function() {
-$('.my-paroller').paroller()
+var isIE = /*@cc_on!@*/ false || !!document.documentMode
+if (!isIE) {
+	$('.my-paroller').paroller()
+}
 // })

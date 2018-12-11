@@ -302,7 +302,7 @@
 }
 
 #section-2 .right > .detail {
-	font-size: 28px;
+	font-size: 27px;
 	font-family: 'font_thin_35regular';
 	color: #ffffff;
 	line-height: 1;
@@ -353,7 +353,7 @@
 	}
 
 	#section-2 .right > .detail {
-		font-size: 28px;
+		font-size: 27px;
 		margin: 10px 0;
 		text-align: center;
 	}
@@ -445,7 +445,7 @@
 	align-items: center;
 	position: absolute;
 	bottom: 5px;
-	font-size: 28px;
+	font-size: 27px;
 	font-family: 'font_thin_35regular';
 	font-weight: 200;
 	color: #ffffff;
@@ -610,7 +610,7 @@
 }
 
 #section-4 .left > .detail {
-	font-size: 28px;
+	font-size: 27px;
 	font-family: 'font_thin_35regular';
 	color: #ffffff;
 	line-height: 1;
@@ -655,7 +655,7 @@
 	}
 
 	#section-4 .left > .rightover > .top > .title > .text > p {
-		font-size: 28px;
+		font-size: 27px;
 	}
 
 	#section-4 .left > .rightover > .bottom > p {
@@ -664,7 +664,7 @@
 	}
 
 	#section-4 .left > .detail {
-		font-size: 28px;
+		font-size: 27px;
 		margin: 10px 0;
 		text-align: center;
 	}
@@ -756,7 +756,7 @@
 	align-items: center;
 	position: absolute;
 	bottom: 5px;
-	font-size: 28px;
+	font-size: 27px;
 	font-family: 'font_thin_35regular';
 	font-weight: 200;
 	color: #ffffff;
@@ -1179,7 +1179,7 @@
 #section-8 a {
 	display: flex;
 	align-items: center;
-	font-size: 39px;
+	font-size: 38px;
 	font-family: 'font_thin_35regular';
 	font-weight: 200;
 	color: #ffffff;
@@ -1243,7 +1243,7 @@
 }
 #section-9 p {
 	align-items: center;
-	font-size: 26px;
+	font-size: 25px;
 	font-family: 'font_light_45regular';
 	font-weight: 200;
 	color: #ffffff;
